@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-pair-of-white-sneakers-isolated-on-white-background-sport-shoes-712448377.jpg",
+      "title": "Sport Shoes",
+      "description": "Lorem ipsum dolor sit amet consectetur adip asperiores corporis rerum architecto, porro aut blanditiis",
+      "rate": 1.2,
+      "price": {
+        "new": 132,
+        "old": 321
+      }
+    },
+    {
+      "id": 2,
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-vintage-red-shoes-on-white-background-92008067.jpg",
+      "title": "Red SNEAKER",
+      "description": "Natus repellat! Consectetur, autem dolorum. Ex asperiores corporis rerum architecto, porro aut blanditiis",
+      "rate": 3.7,
+      "price": {
+        "new": 32,
+        "old": 121
+      }
+    },
+    {
+      "id": 3,
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-pink-and-black-sport-woman-shoes-isolated-on-white-background-709418083.jpg",
+      "title": "Sport Shoes Women",
+      "description": "Commodi sint voluptates alias deserunt aperiam asperiores corporis rerum architecto, porro aut blanditiis",
+      "rate": 4.5,
+      "price": {
+        "new": 221,
+        "old": 521
+      }
+    },
+    {
+      "id": 4,
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-children-s-autumn-or-winter-fashion-boots-isolated-on-white-background-708900334.jpg",
+      "title": "Winter boots children",
+      "description": "Libero dolore ipsa hic quia excepturi perspi asperiores corporis rerum architecto, porro aut blanditiis",
+      "rate": 4.4,
+      "price": {
+        "new": 55,
+        "old": 200
+      }
+    },
+    {
+      "id": 5,
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-bangkok-thailand-january-onitsuka-tiger-asics-gel-lyte-iii-on-january-in-bangkok-292088969.jpg",
+      "title": "Sports shoes Red-White",
+      "description": "Sint voluptates alias deserunt aperiam asperiores corporis rerum architecto, porro aut blanditiis",
+      "rate": 4.6,
+      "price": {
+        "new": 150,
+        "old": 300
+      }
+    },
+    {
+      "id": 6,
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-leather-shoes-isolated-on-white-background-including-clipping-path-216565609.jpg",
+      "title": "Black leather shoes",
+      "description": "Ex harum voluptate consequatur, distinctio nulla asperiores corporis rerum architecto, porro aut blanditiis",
+      "rate": 2.9,
+      "price": {
+        "new": 132,
+        "old": 200
+      }
+    },
+    {
+      "id": 7,
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-casual-shoes-on-white-background-included-clipping-path-667459072.jpg",
+      "title": "Shoes Canvas",
+      "description": "Eveniet totam fugiat exercitationem asperiores corporis rerum architecto, porro aut blanditiis",
+      "rate": 4,
+      "price": {
+        "new": 500,
+        "old": 999
+      }
+    },
+    {
+      "id": 8,
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-white-sneakers-on-white-background-including-clipping-path-1100736923.jpg",
+      "title": "Shoes White",
+      "description": "Perspiciatis! Eveniet totam fugiat exercitationem commodi sint voluptates alias deserunt aperiam asperiores corporis rerum architecto, porro aut blanditiis",
+      "rate": 4.1,
+      "price": {
+        "new": 150,
+        "old": 250
+      }
+    },
+    {
+      "id": 9,
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-yellow-sneakers-15066415.jpg",
+      "title": "Sneakers Yellow",
+      "description": "Atque nobis neque eum quo explicabo provident rerum hic amet, error, eos voluptatum facili aut blanditiis",
+      "rate": 3.95,
+      "price": {
+        "new": 600,
+        "old": 1200
+      }
+    },
+    {
+      "id": 10,
+      "imgUrl": "https://image.shutterstock.com/image-vector/colorful-red-trendy-sneakers-concept-600w-1451375537.jpg",
+      "title": "Trendy Red",
+      "description": "Atque nobis neque eum quo explicabo provident, eos voluptatum facili aut blanditiis, rerum hic amet, error",
+      "rate": 4.18,
+      "price": {
+        "new": 120,
+        "old": 199
+      }
+    }
+  ]
+}

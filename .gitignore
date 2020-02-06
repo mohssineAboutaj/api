@@ -1,0 +1,11 @@
+# skip folders
+node_modules/
+
+# skip files
+*-lock.*
+*.lock.*
+*.lock
+
+*-log.*
+*.log.*
+*.log

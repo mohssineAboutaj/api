@@ -1,0 +1,28 @@
+{
+  "name": "api",
+  "version": "1.1.0",
+  "description": "Fake Json Server contain ``10`` of elements (products) used for testing rest API available in [https://my-json-server.typicode.com/mohssineAboutaj/api/products](https://my-json-server.typicode.com/mohssineAboutaj/api/products)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./node_modules/json-server/lib/cli/bin.js -w db.json -p 5000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohssineAboutaj/api.git"
+  },
+  "keywords": [
+    "api",
+    "RESTfull api",
+    "json",
+    "fake api"
+  ],
+  "author": "Mohssine Aboutaj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohssineAboutaj/api/issues"
+  },
+  "homepage": "https://my-json-server.typicode.com/mohssineAboutaj/api/products",
+  "devDependencies": {
+    "json-server": "^0.15.1"
+  }
+}
