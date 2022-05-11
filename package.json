@@ -14,7 +14,10 @@
     "api",
     "RESTfull api",
     "json",
-    "fake api"
+    "fake api",
+    "typicode",
+    "jsonplaceholder",
+    "producrs api"
   ],
   "author": "Mohssine Aboutaj",
   "license": "MIT",
